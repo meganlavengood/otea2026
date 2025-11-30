@@ -27,9 +27,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 courseno: MUSI 810
 semester: Fall 2025
-domain: instruments.meganlavengood.com
-url: "https://instruments.meganlavengood.com"
-# baseurl: "/" # the subpath of your site, e.g. /blog
+domain: https://meganlavengood.github.io
+# url: "https://instruments.meganlavengood.com"
+baseurl: "/website3" # the subpath of your site, e.g. /blog
 # repository: meganlavengood/instruments-class
 github_username: meganlavengood
 
