@@ -44,7 +44,7 @@ plugins:
     - jekyll-scholar
     - jekyll-toc
     - jekyll-spaceship
-    - jekyll-target-blank
+    # - jekyll-target-blank
 defaults:
     - scope:
           path: ""
