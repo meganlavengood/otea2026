@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 courseno: MUSI 810
 semester: Fall 2025
 domain: https://meganlavengood.github.io
-# url: "https://instruments.meganlavengood.com"
+url: https://meganlavengood.github.io
 baseurl: "/website3" # the subpath of your site, e.g. /blog
 # repository: meganlavengood/instruments-class
 github_username: meganlavengood
@@ -50,6 +50,9 @@ defaults:
           path: ""
       values:
           toc: true
+
+kramdown:
+    input: Kramdown
 
 # Jekyll-TOC
 toc:

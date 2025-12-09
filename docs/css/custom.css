@@ -14,6 +14,10 @@
 	--bs-link-hover-color: var(--pink);
 }
 
+html {
+	font-size: 20px;
+}
+
 body {
 	font-family: var(--body-font);
 }
@@ -223,4 +227,82 @@ textarea {
 
 fieldset legend {
 	border-bottom: 2px solid var(--primary);
+}
+
+#banner img {
+	filter: brightness(40%);
+}
+
+.blog-post {
+	& p {
+		line-height: 1.8rem;
+	}
+	& blockquote {
+		padding: 40px 10px;
+		text-align: center;
+		background-color: var(--bs-primary-bg-subtle) !important;
+		/* border-bottom-style: solid;
+		border-top-style: solid;
+		border-width: 3px;
+		border-color: var(--primary); */
+		color: var(--bs-primary);
+		position: relative;
+		font-size: 1.5em;
+		font-weight: bold;
+	}
+
+	& blockquote.small {
+		font-size: 1em;
+	}
+
+	& blockquote p:last-child {
+		margin-bottom: 0;
+	}
+
+	& blockquote .figcaption {
+		display: block;
+		font-size: 80%;
+		font-weight: normal;
+		filter: opacity(75%);
+	}
+
+	& blockquote .figcaption:before {
+		content: " — ";
+	}
+
+	& blockquote p:first-child:before {
+		color: currentColor;
+		content: "“";
+		display: block;
+		position: relative;
+		font-weight: 900;
+		left: 0;
+		font-size: 3rem;
+		line-height: 1;
+	}
+}
+
+figcaption {
+	display: block;
+	font-size: 80%;
+	font-weight: normal;
+	filter: opacity(75%);
+	line-height: normal;
+	padding-top: 0.5rem;
+}
+
+.lightbox-caption {
+	padding: 1em;
+}
+
+figure {
+	background-color: white;
+	padding: 0.5rem;
+	& img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	margin-left: auto;
+	margin-right: auto;
 }

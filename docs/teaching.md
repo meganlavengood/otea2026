@@ -14,7 +14,7 @@ As part of a team of music theorists, I worked to create [*Open Music Theory* 
 
 <div class="col-md-6 mx-auto text-center">
     <figure><a href="https://viva.pressbooks.pub/openmusictheory/"><img class="img-fluid" src="https://meganlavengood.com/wp-content/uploads/2022/05/OMT-cover-lower-res-1-350x525-1.png" alt="Open Music Theory cover" /></a>
-        <figcaption class="wp-element-caption text-secondary"><small>Cover design: <a href="https://www.bethanynistler.com" target="_blank">Bethany Nistler</a>.</small>
+        <figcaption class="wp-element-caption text-secondary"><small>Cover design: <a href="https://www.bethanynistler.com">Bethany Nistler</a>.</small>
     </figcaption>
 
 </figure>
@@ -29,13 +29,14 @@ Most of my course materials are (or were recently) open access.
 
 ### Undergraduate
 
-<div class="row flex-row justify-content-start align-items-stretch">
+<div class="row flex-row justify-content-center align-items-stretch">
     <a class="btn col-md-4 m-2 btn-lg btn-pink" href="http://musi215.meganlavengood.com" target="_blank" rel="noreferrer noopener">Theory for Pop and Jazz Music<br />(MUSI 215)</a>
     <a class="btn col-md-4 m-2 btn-lg btn-success" href="http://musi216.meganlavengood.com" target="_blank" rel="noreferrer noopener">Theory for 20th/21st-c. Music<br />(MUSI 216)</a>
 </div>
 
-<h3 id="graduate">Graduate</h3>
-<div class="row flex-row justify-content-start align-items-stretch">
+### Graduate
+
+<div class="row flex-row justify-content-center align-items-stretch">
     <a class="btn col-md-4 m-2 btn-lg btn-danger" href="https://musi611.meganlavengood.com" target="_blank" rel="noreferrer noopener">Analytical Techniques<br />(MUSI 611)</a>
     <a class="btn col-md-4 m-2 btn-lg btn-info" href="http://multimedia.meganlavengood.com" target="_blank" rel="noreferrer noopener">Analyzing Music and Media<br />(MUSI 810)</a>
     <a class="btn col-md-4 m-2 btn-lg btn-dark" href="https://timbreclass.meganlavengood.com" target="_blank" rel="noreferrer noopener">Analysis of Timbre<br />(MUSI 810)</a>
@@ -44,4 +45,5 @@ Most of my course materials are (or were recently) open access.
 </div>
 
 <h2 id="videos">music theory instructional videos</h2>
-<div class="col"><iframe src="https://coursemedia.gmu.edu/embedplaylist/secure/embed/v2/1/playlistId/1_kxo1cskb/uiConfId/41520291	" width="400" height="620" allowfullscreen allow="autoplay *; fullscreen *; encrypted-media *" referrerpolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Music Theory Instructional Videos"></iframe></div>
+
+<div class="col"><iframe src="https://coursemedia.gmu.edu/embedplaylist/secure/embed/v2/1/playlistId/1_kxo1cskb/uiConfId/41520291" width="100%" height="620" allowfullscreen allow="autoplay *; fullscreen *; encrypted-media *" referrerpolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Music Theory Instructional Videos"></iframe></div>
