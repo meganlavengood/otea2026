@@ -104,7 +104,7 @@
 	--bs-border-width: 3px;
 	--bs-border-style: solid;
 	--bs-border-color: #ccc0af;
-	--bs-border-color-translucent: rgba(85, 56, 25, 0.175);
+	--bs-border-color-translucent: rgba(85, 56, 25, 0.075);
 	--bs-border-radius: 0.375rem;
 	--bs-border-radius-sm: 0.25rem;
 	--bs-border-radius-lg: 0.5rem;
@@ -4659,7 +4659,7 @@ fieldset:disabled .btn {
 	--bs-card-title-spacer-y: 0.5rem;
 	--bs-card-title-color: ;
 	--bs-card-subtitle-color: ;
-	--bs-card-border-width: var(--bs-border-width);
+	--bs-card-border-width: 1px;
 	--bs-card-border-color: var(--bs-border-color-translucent);
 	--bs-card-border-radius: var(--bs-border-radius);
 	--bs-card-box-shadow: ;

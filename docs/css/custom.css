@@ -232,12 +232,14 @@ textarea {
 .toc {
 	& ul {
 		list-style-type: none;
+		padding-left: inherit;
 	}
 	& ul > li {
 		margin-bottom: 0.5rem;
 	}
 	& ul ul {
 		list-style-type: "– ";
+		padding-left: 2rem;
 	}
 	& li li {
 		margin-bottom: 0;

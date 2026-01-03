@@ -24,7 +24,6 @@ email: mlavengo@gmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
     Course website for MUSI 810. Fall 2025.
 
-
 courseno: MUSI 810
 semester: Fall 2025
 domain: https://meganlavengood.github.io
@@ -61,11 +60,10 @@ toc:
     min_level: 2
     max_level: 3
     ordered_list: true
-    no_toc_section_class: toc-container
     list_id: toc
     list_class: section-nav
     sublist_class: "toc-sublist"
-    item_class: toc-entry alert-link
+    item_class: toc-entry
     item_prefix: toc-
 
 scholar:
@@ -100,62 +98,3 @@ scholar:
 permalink: /:year/:title:output_ext
 
 future: true
-
-## Class/semester variables
-
-year: 2025
-
-mon01: "Mon, Aug 25"
-mon02: "Mon, Sep 1"
-mon03: "Mon, Sep 8"
-mon04: "Mon, Sep 15"
-mon05: "Mon, Sep 22"
-mon06: "Mon, Sep 29"
-mon07: "Mon, Oct 6"
-mon08: "Mon, Oct 13"
-mon09: "Mon, Oct 20"
-mon10: "Mon, Oct 27"
-mon11: "Mon, Nov 3"
-mon12: "Mon, Nov 10"
-mon13: "Mon, Nov 17"
-mon14: "Mon, Nov 24"
-mon15: "Mon, Dec 1"
-
-wed01: "Wed, Aug 27"
-wed02: "Wed, Sep 3"
-wed03: "Wed, Sep 10"
-wed04: "Wed, Sep 17"
-wed05: "Wed, Sep 24"
-wed06: "Wed, Oct 1"
-wed07: "Wed, Oct 8"
-wed08: "Wed, Oct 15"
-wed09: "Wed, Oct 22"
-wed10: "Wed, Oct 29"
-wed11: "Wed, Nov 5"
-wed12: "Wed, Nov 12"
-wed13: "Wed, Nov 19"
-wed14: "Wed, Nov 26"
-wed15: "Wed, Dec 3"
-
-sun01: "Sun, Aug 31"
-sun02: "Sun, Sep 7"
-sun03: "Sun, Sep 14"
-sun04: "Sun, Sep 21"
-sun05: "Sun, Sep 28"
-sun06: "Sun, Oct 5"
-sun07: "Sun, Oct 12"
-sun08: "Sun, Oct 19"
-sun09: "Sun, Oct 26"
-sun10: "Sun, Nov 2"
-sun11: "Sun, Nov 9"
-sun12: "Sun, Nov 16"
-sun13: "Sun, Nov 23"
-sun14: "Sun, Nov 30"
-sun15: "Sun, Dec 7"
-
-final-worksheet: "Wed, Nov 19"
-final-video: "Sun, Nov 30"
-final-peer: "Wed, Dec 3"
-final-early: "Mon, Dec 8"
-final-late: "Mon, Dec 15"
-final-range: "Dec 8–Dec 15"

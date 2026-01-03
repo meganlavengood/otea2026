@@ -26,10 +26,12 @@ layout: default
 
     {% endif %}
     {% if page.toc == true %}
-    <div id="toc-container" class="alert alert-primary">
+    <div id="toc-container" class="toc card col-md-6 mx-md-auto">
 
-      <h2 class="alert-heading">Table of Contents</h2>
-      {% toc %}
+      <h2 class="h5 card-header">Table of Contents</h2>
+      <div class="card-body">
+        {% toc %}
+      </div>
     </div>
 
     <hr>

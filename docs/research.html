@@ -31,7 +31,7 @@ permalink: /research/
             {% endif %}
             <div class="card-body">
 
-                <h3 class="card-title" id="{{ item.id }}">{{ item.title }}</h3>
+                <h3 class="card-title h5" id="{{ item.id }}">{{ item.title }}</h3>
                 <div class="card-text">
                     {% if item.note %}
 
@@ -39,18 +39,23 @@ permalink: /research/
                     {% endif %}
 
                     <p>In
-                        {% if item.pub-link %}<a class="text-dark" href="{{ item.pub-link }}">{% endif %}
-                            <em>{{ item.pub }}</em>
-                            {% if item.pub-link %}</a>{% endif %}
-                        {{ item.vol }}, {{ item.year }}.</p>
-                    {% if item.link %}
-                    <a class="btn btn-primary" href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
-                        {% if item.open %}
-                        <i class="bi bi-unlock2-fill"></i> access full text
+                        {% if item.pub-link %}
+                        <em><a class="text-dark" href="{{ item.pub-link }}">{{ item.pub }}</a></em>
                         {% else %}
-                        view
+                        <em>{{ item.pub }}</em>
                         {% endif %}
-                    </a>
+                        {{ item.vol }}, {{ item.year }}.
+                    </p>
+                    {% if item.link %}
+                    <div class="text-center">
+                        <a class="btn btn-primary" href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
+                            {% if item.open %}
+                            <i class="bi bi-unlock2-fill"></i> access full text
+                            {% else %}
+                            view
+                            {% endif %}
+                        </a>
+                    </div>
                     {% endif %}
 
                 </div>
@@ -77,7 +82,7 @@ permalink: /research/
             {% endif %}
             <div class="card-body">
 
-                <h3 class="card-title" id="{{ item.id }}">{{ item.title }}</h3>
+                <h3 class="card-title h5" id="{{ item.id }}">{{ item.title }}</h3>
                 <div class="card-text">
                     {% if item.note %}
 
@@ -86,13 +91,15 @@ permalink: /research/
 
                     <p>In {% if item.pub-link %}<a class="text-dark" href="{{ item.pub-link }}">{% endif %}<em>{{ item.pub }}</em>{% if item.pub-link %}</a>{% endif %}, {{ item.year }}.</p>
                     {% if item.link %}
-                    <a class="btn btn-primary" href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
-                        {% if item.open %}
-                        <i class="bi bi-unlock2-fill"></i> access full text
-                        {% else %}
-                        view
-                        {% endif %}
-                    </a>
+                    <div class="text-center">
+                        <a class="btn btn-primary" href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
+                            {% if item.open %}
+                            <i class="bi bi-unlock2-fill"></i> access full text
+                            {% else %}
+                            view
+                            {% endif %}
+                        </a>
+                    </div>
                     {% endif %}
 
                 </div>
@@ -124,7 +131,7 @@ permalink: /research/
             {% endif %}
             <div class="card-body">
 
-                <h3 class="card-title" id="{{ item.id }}">{{ item.title }}</h3>
+                <h3 class="card-title h5" id="{{ item.id }}">{{ item.title }}</h3>
                 <div class="card-text">
                     {% if item.note %}
 
@@ -133,9 +140,11 @@ permalink: /research/
 
                     <p>Presented at {% if item.conf-link %}<a class="text-dark" href="{{ item.conf-link }}">{% endif %}{{ item.conf }}{% if item.conf-link %}</a>{% endif %}, {{ item.year }}.</p>
                     {% if item.link %}
-                    <a class="btn btn-primary" href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
-                        <i class="bi bi-unlock2-fill"></i> view presentation
-                    </a>
+                    <div class="text-center">
+                        <a class="btn btn-primary" href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
+                            <i class="bi bi-unlock2-fill"></i> view presentation
+                        </a>
+                    </div>
                     {% endif %}
 
                 </div>
@@ -161,7 +170,7 @@ permalink: /research/
             {% endif %}
             <div class="card-body">
 
-                <h3 class="card-title" id="{{ item.id }}">{{ item.title }}</h3>
+                <h3 class="card-title h5" id="{{ item.id }}">{{ item.title }}</h3>
                 <div class="card-text">
                     {% if item.note %}
 
@@ -170,9 +179,11 @@ permalink: /research/
 
                     <p>Presented at {% if item.conf-link %}<a class="text-dark" href="{{ item.conf-link }}">{% endif %}{{ item.conf }}{% if item.conf-link %}</a>{% endif %}, {{ item.year }}.</p>
                     {% if item.link %}
-                    <a class="btn btn-primary" href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
-                        <i class="bi bi-unlock2-fill"></i> view presentation
-                    </a>
+                    <div class="text-center">
+                        <a class="btn btn-primary" href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
+                            <i class="bi bi-unlock2-fill"></i> view presentation
+                        </a>
+                    </div>
                     {% endif %}
 
                 </div>
@@ -194,22 +205,31 @@ permalink: /research/
         <div class="card">
             <div class="card-body">
 
-                <h3 class="card-title" id="{{ item.id }}">{{ item.title }}</h3>
+                <h3 class="card-title h5" id="{{ item.id }}">{{ item.title }}</h3>
                 <div class="card-text">
                     {% if item.note %}
 
                     <p>{{ item.note }}</p>
                     {% endif %}
 
-                    <p>In {% if item.pub-link %}<a class="text-dark" href="{{ item.pub-link }}">{% endif %}<em>{{ item.pub }}</em>{% if item.pub-link %}</a>{% endif %}, {{ item.year }}.</p>
-                    {% if item.link %}
-                    <a class="btn btn-primary" href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
-                        {% if item.open %}
-                        <i class="bi bi-unlock2-fill"></i> access full text
+                    <p>In
+                        {% if item.pub-link %}
+                        <em><a class="text-dark" href="{{ item.pub-link }}">{{ item.pub }}</a></em>
                         {% else %}
-                        view
+                        <em>{{ item.pub }}</em>
                         {% endif %}
-                    </a>
+                        {{ item.vol }}, {{ item.year }}.
+                    </p>
+                    {% if item.link %}
+                    <div class="text-center">
+                        <a class="btn btn-primary" href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
+                            {% if item.open %}
+                            <i class="bi bi-unlock2-fill"></i> access full text
+                            {% else %}
+                            view
+                            {% endif %}
+                        </a>
+                    </div>
                     {% endif %}
 
                 </div>

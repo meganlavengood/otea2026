@@ -147,7 +147,7 @@
   img: teaching_pop.jpg
   alt: A close-up of the headstock of a guitar
   credit: Image by <a href="https://pixabay.com/users/domenicocervini-4705559/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4345340">Domenico Cervini</a> from <a href="https://pixabay.com/">Pixabay</a>
-  pub: Utah State University
+  conf: Utah State University
   year: 2024
   link: https://presentations.meganlavengood.com/2024-teaching_pop.html
 
@@ -202,7 +202,7 @@
   type: review
   pub: Journal of Popular Music Studies
   pub-link: https://online.ucpress.edu/jpms
-  vol:
+  vol: 31/1
   year: 2019
   link: http://doi.org/10.1525/jpms.2019.311004
   open: false
@@ -212,7 +212,7 @@
   type: review
   pub: Current Musicology
   pub-link: https://currentmusicology.columbia.edu
-  vol:
+  vol: 103
   year: 2018
   link: http://doi.org/10.7916/cm.v0i103.5385
   open: true
