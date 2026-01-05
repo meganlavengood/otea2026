@@ -7,16 +7,21 @@ layout: default
       <img src="{{ page.banner | relative_url }}" class="d-block w-100 object-fit-cover" height="300" alt="{{ page.banner-alt }}" />
       <div class="carousel-caption d-block text-start">
 
+        <p class="lead text-secondary">{{ page.date | date: "%B %-d, %Y" }}</p>
+
         <h1 class="small-caps fw-boldest">{% if page.title-prefix %}
           {{ page.title-prefix }}:
           {% endif %}
           {{ page.title }}</h1>
+
       </div>
+
     </div>
   </header>
 
 
   <div class="col-lg-8 mx-auto">
+
 
     {% if page.lead %}
 
@@ -29,6 +34,7 @@ layout: default
   </div>
   <!-- {% if page.toc %} -->
   <div class="col-lg-10 mx-auto">
+
 
     <div class="d-flex flex-row flex-lg-row-reverse flex-wrap justify-content-between">
 

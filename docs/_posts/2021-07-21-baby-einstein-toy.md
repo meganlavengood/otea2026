@@ -19,33 +19,33 @@ While there are some obvious, Greatest-Hits-of-the-Classical-Era-type selections
 I tried simply searching the internet for av list of songs, and I was able to find [a review of the toy](https://web.archive.org/web/20240413153928/https://thekidstoyscenter.com/baby-einstein-take-along-tunes/) that appeared to have answered this question for me:
 
 <figure data-bs-toggle="lightbox" class="figure">
-<img src="/assets/posts/baby-einstein-incorrect-tunes.png" class="img-fluid" alt="The tunes played by the toy are listed below. Serenade No. 13 in G, Eine Kleine Nachtmusik, K525, 1st movement, Mozart. Nocturne No. 6, K239, 1st movement, Mozart. Piano Sonata in A, K331, 3rd movement, Mozart. Waltz in GB Op. 70, No.1, Chopin. The Four Seasons, Spring, 1st movement, Vivaldi. The Four Seasons, Summer, 1st and 3rd movements, Vivaldi. William Tell Overture, Lone Ranger, Rossini."/>
+<img src="{{ '/assets/posts/baby-einstein-incorrect-tunes.png' | relative_url }}" class="img-fluid" alt="The tunes played by the toy are listed below. Serenade No. 13 in G, Eine Kleine Nachtmusik, K525, 1st movement, Mozart. Nocturne No. 6, K239, 1st movement, Mozart. Piano Sonata in A, K331, 3rd movement, Mozart. Waltz in GB Op. 70, No.1, Chopin. The Four Seasons, Spring, 1st movement, Vivaldi. The Four Seasons, Summer, 1st and 3rd movements, Vivaldi. William Tell Overture, Lone Ranger, Rossini."/>
 <figcaption>Supposedly a list of tunes for the toy.</figcaption>
 </figure>
 
-A number of these were correct—all the Mozart selections, the Chopin, the Rossini, and Vivaldi "Spring"—but I listened to all of "Summer" and didn't hear anything from the toy, and about four tracks were left unidentified.
+A number of these were correct—all the Mozart selections, the Chopin, the Rossini, and Vivaldi "Spring"—but I listened to all of "Summer" and didn't hear anything from the toy, and about four tunes were left unidentified.
 
-Have a listen to these mystery tracks and feel yourself being transported to your last drop-the-needle test.
+Have a listen to these mystery tunes and feel yourself being transported to your last drop-the-needle test.
 
 <figure class="figure">
-<audio id="baby-einstein-a" class="media" src="/assets/posts/baby-einstein-a.mp3" style="max-width: 600px;outline: none" controls="">Your browser doesn't support HTML5 audio. Here is a <a href="/assets/posts/baby-einstein-a.mp3">link to download the audio</a> instead.</audio>
+<audio id="baby-einstein-a" class="media" src="{{ '/assets/posts/baby-einstein-a.mp3' | relative_url }}" style="max-width: 600px;outline: none" controls="">Your browser doesn't support HTML5 audio. Here is a <a href="/assets/posts/baby-einstein-a.mp3">link to download the audio</a> instead.</audio>
 <figcaption><strong>Mystery tune A.</strong> Described by one friend as having mode mixture that seems like "a Brahms or Dvořák thing, or like Berlioz"; by another as reminiscent of a trombone excerpt from <i>Damnation of Faust</i>.</figcaption>
 </figure>
 
 <figure class="figure">
-<audio id="baby-einstein-b" class="media" src="/assets/posts/baby-einstein-b.mp3" style="max-width: 600px;outline: none" controls="">Your browser doesn't support HTML5 audio. Here is a <a href="/assets/posts/baby-einstein-b.mp3">link to download the audio</a> instead.</audio>
+<audio id="baby-einstein-b" class="media" src="{{ '/assets/posts/baby-einstein-b.mp3' | relative_url }}" style="max-width: 600px;outline: none" controls="">Your browser doesn't support HTML5 audio. Here is a <a href="/assets/posts/baby-einstein-b.mp3">link to download the audio</a> instead.</audio>
 <figcaption><strong>Mystery tune B.</strong> Very short and repetitive so hard to pin down the era. Nice <a href="https://en.wikipedia.org/wiki/Galant_Schemata#Romanesca">Romanesca</a> though.
 </figcaption>
 </figure>
 
 <figure class="figure">
-<audio id="baby-einstein-c" class="media" src="/assets/posts/baby-einstein-c.mp3" style="max-width: 600px;outline: none" controls="">Your browser doesn't support HTML5 audio. Here is a <a href="/assets/posts/baby-einstein-c.mp3">link to download the audio</a> instead.</audio>
+<audio id="baby-einstein-c" class="media" src="{{ '/assets/posts/baby-einstein-c.mp3' | relative_url }}" style="max-width: 600px;outline: none" controls="">Your browser doesn't support HTML5 audio. Here is a <a href="/assets/posts/baby-einstein-c.mp3">link to download the audio</a> instead.</audio>
 <figcaption><strong>Mystery tune C.</strong> That bass line plus that nonstop melody is giving major baroque vibes.That bass line plus that nonstop melody is giving major baroque vibes.
 </figcaption>
 </figure>
 
 <figure class="figure">
-<audio id="baby-einstein-D" class="media" src="/assets/posts/baby-einstein-D.mp3" style="max-width: 600px;outline: none" controls="">Your browser doesn't support HTML5 audio. Here is a <a href="/assets/posts/baby-einstein-D.mp3">link to download the audio</a> instead.</audio>
+<audio id="baby-einstein-D" class="media" src="{{ '/assets/posts/baby-einstein-D.mp3' | relative_url }}" style="max-width: 600px;outline: none" controls="">Your browser doesn't support HTML5 audio. Here is a <a href="/assets/posts/baby-einstein-D.mp3">link to download the audio</a> instead.</audio>
 <figcaption><strong>Mystery tune D.</strong> Described by a friend as "bad Handel." Another person said the cadences on beat 3 in 3/4 time "suggests an early date, early in the 18th century."
 </figcaption>
 </figure>
@@ -58,11 +58,11 @@ Thus began my wild goose chase.
 
 Clearly I needed to tap a bigger network, so it was time to bring in Twitter.
 
-I was encouraged when, after less than 20 minutes, a hero identified two of the four tracks as some real deep cuts.
+I was encouraged when, after less than 20 minutes, a hero identified two of the four tunes as some real deep cuts.
 
 <figure data-bs-toggle="lightbox" class="figure">
-<img src="/assets/posts/baby-einstein-twitter1" class="img-fluid" alt="Tweet from @meganlavengood: Ok classical music nerds, I need you to ID the pieces/mvts on this toy because I don't know them all and it's driving me nuts. I googled it but the answers seem wrong. Tweet from @MarkJanello: # 4 is one of the 14 'Goldberg' canons, of all things, and #5 is Vivaldi op. 3 no. 12, also arranged by Bach for keyboard.">
-<figcaption>Mark Janello, music theory prof at Peabody and Music Twitter hero, identifying mystery tracks b and c (= #4 and #5 in the tweet). 
+<img src="{{ '/assets/posts/baby-einstein-twitter1.png' | relative_url }}" class="img-fluid" alt="Tweet from @meganlavengood: Ok classical music nerds, I need you to ID the pieces/mvts on this toy because I don't know them all and it's driving me nuts. I googled it but the answers seem wrong. Tweet from @MarkJanello: # 4 is one of the 14 'Goldberg' canons, of all things, and #5 is Vivaldi op. 3 no. 12, also arranged by Bach for keyboard.">
+<figcaption>Mark Janello, music theory prof at Peabody and Music Twitter hero, identifying mystery tunes b and c (= #4 and #5 in the tweet). 
 </figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ Apparently they were only discovered in 1975. Weird choice for a baby toy, right
 
 Vivaldi wrote so much stuff that I'm not surprised I couldn't identify [this violin concerto](https://ks.imslp.net/files/imglnks/usimg/1/1d/IMSLP572180-PMLP126417-L_Estro_Armonico_--_conc_12.pdf). We are very far out of my wheelhouse with this one.
 
-But no one was able to tackle Mystery Tracks A and D yet.
+But no one was able to tackle Mystery Tunes A and D yet.
 
 ## Step 3: Ask nerdy friends.
 
@@ -89,7 +89,7 @@ At this point I started to fear that I'd never know the answer to this mystery.
 I went back to Twitter to beg and plead for my followers' help. I even tried appealing to people's egos by mentioning they'd be out-guessing Bill Rothstein if they knew any of the answers. Yet no one answered my calls. Inspired by the suggestion that Mystery Tune D was "bad Handel," I decided to tag in Handel scholar Greg Decker. In a surprise twist ending, though, it was Mystery Tune A that Greg was able to identify!
 
 <figure data-bs-toggle="lightbox" class="figure">
-<img src="/assets/posts/baby-einstein-twitter2.png" class="img-fluid" alt="Tweet from @Le_Prof_Galant: OK, it's one of the Beethoven contredanses—no. 6 in the original for orchestra, I think, but the reason it sounded like an old piano lesson was because this one sounds more like the later transcription for piano.">
+<img src="{{ '/assets/posts/baby-einstein-twitter2.png' | relative_url }}" class="img-fluid" alt="Tweet from @Le_Prof_Galant: OK, it's one of the Beethoven contredanses—no. 6 in the original for orchestra, I think, but the reason it sounded like an old piano lesson was because this one sounds more like the later transcription for piano.">
 <figcaption>Greg Decker, music theory professor at Bowling Green and Beethoven "Contredanse" identifier.
 </figcaption>
 </figure>
@@ -99,7 +99,7 @@ Music Theory Twitter begged Greg to work his magic on Mystery Tune D as well. He
 But another surprise came when the final piece was identified by a theory professor whose expertise came not from their extensive schooling, but instead from their extensive family.
 
 <figure data-bs-toggle="lightbox" class="figure">
-<img src="/assets/posts/baby-einstein-twitter3.png" class="img-fluid" alt="We just need to ID the one at 5:25 now and I will have a complete list! Haaaallllppp. Tweet from @tobyush: It's the Harlequinade from Telemann's Water Music! I don't know this because I'm a classical music nerd but because it is on the Baby Neptune DVD that played 5 million times in our household back in the early 2000s.">
+<img src="{{ '/assets/posts/baby-einstein-twitter3.png' | relative_url }}" class="img-fluid" alt="We just need to ID the one at 5:25 now and I will have a complete list! Haaaallllppp. Tweet from @tobyush: It's the Harlequinade from Telemann's Water Music! I don't know this because I'm a classical music nerd but because it is on the Baby Neptune DVD that played 5 million times in our household back in the early 2000s.">
 <figcaption>Toby Rush, music theory professor at Dayton and super dad.
 </figcaption>
 </figure>
@@ -167,5 +167,5 @@ Here is the actual list of pieces featured in the Baby Einstein Take Along Tunes
 <iframe data-testid="embed-iframe" src="https://open.spotify.com/embed/playlist/6bUxlQmHQDAXuHJ9kIa1Jr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <figure data-bs-toggle="lightbox" class="figure">
-<img src="/assets/posts/baby-einstein-twitter4" class="img-fluid" alt="Tweet from @theorymeg: This is peak Music Theory Twitter, thank you for your service @meganlavengood.">
+<img src="{{ '/assets/posts/baby-einstein-twitter4.png' | relative_url }}" class="img-fluid" alt="Tweet from @theorymeg: This is peak Music Theory Twitter, thank you for your service @meganlavengood.">
 </figure>

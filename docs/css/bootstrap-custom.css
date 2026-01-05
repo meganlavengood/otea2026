@@ -210,7 +210,8 @@ hr {
 	margin: 1rem 0;
 	color: inherit;
 	border: 0;
-	border-top: var(--bs-border-width) solid var(--bs-border-color-translucent);
+	/* border-top: var(--bs-border-width) solid var(--bs-border-color-translucent); */
+	border-top: var(--bs-border-width) solid var(--bs-border-color);
 	opacity: 0.25;
 }
 

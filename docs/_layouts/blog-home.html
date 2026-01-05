@@ -23,7 +23,7 @@ layout: default
             {%- for post in site.posts -%}
             <div class="col-md-4 d-flex">
                 <div class="card">
-                    <img src="{{ post.banner }}" class="card-img-top" alt="{{post.banner-alt}}" />
+                    <img src="{{ post.banner | relative_url }}" class="card-img-top" alt="{{post.banner-alt}}" />
                     <div class="card-body">
 
                         <h3 class="h5 card-title small-caps"><a class="stretched-link link-underline link-underline-opacity-0" href="{{ post.url | relative_url }}">

@@ -6,6 +6,17 @@ if (document.getElementById("last-modified") != null) {
 	document.getElementById("last-modified").innerHTML += modDate.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" }); // format last-mod date to look nicer
 }
 
+// add bootstrap classes to tables automatically
+
+function addTableClasses() {
+	const allTables = document.querySelectorAll("table");
+	allTables.forEach((table) => {
+		table.classList.add("table");
+	});
+}
+
+document.addEventListener("DOMContentLoaded", addTableClasses);
+
 //  open external links in new tab via https://www.w3tutorials.net/blog/open-external-links-in-a-new-tab-without-jquery/
 
 function setupExternalLinks() {
