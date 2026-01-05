@@ -3,7 +3,7 @@ layout: post
 title: "The Complete Guide to Typing Music Theory Stuff into Your Paper without It Looking Ugly"
 date: 2021-03-11 11:26:37 -0500
 toc: true
-banner: "https://meganlavengood.com/wp-content/uploads/2021/03/letters-691842_1920-1536x1028.jpg"
+banner: "/assets/posts/typing-1.jpg"
 banner-alt: "Individual letter-press characters"
 lead: "Scale degrees, accidentals, figures—let’s do it all."
 ---
@@ -23,7 +23,7 @@ There's actually [a lot more than this](https://www.unicode.org/charts/PDF/U1D1
 
 To find these symbols easily, I've saved a **reference spreadsheet** on my computer with all of the Unicode I might use for music.
 
-[Download (.numbers)](https://meganlavengood.com/wp-content/uploads/2023/12/music-unicode.numbers){: .btn .btn-primary } [Download (.xlsx)](https://meganlavengood.com/wp-content/uploads/2023/12/music-unicode.xlsx){: .btn .btn-primary }
+[Download (.numbers)](https://wordpress.meganlavengood.com/wp-content/uploads/2023/12/music-unicode.numbers){: .btn .btn-primary } [Download (.xlsx)](https://wordpress.meganlavengood.com/wp-content/uploads/2023/12/music-unicode.xlsx){: .btn .btn-primary }
 {: .text-center}
 
 ## Autocorrect: the lazy writer's best friend
@@ -42,7 +42,7 @@ If you want to be able to use these symbols quickly in any app, you can make thi
 | !#      | ♯    |
 | !n      | ♮    |
 
-![](https://meganlavengood.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-05-at-2.49.15-PM.png)
+![](/assets/posts/typing-4.png)
 
 Add those replacements, and then all you need to do is type that shortcut and your computer will replace it with nice pretty flat sign, sharp sign, or natural sign. B!b becomes B<span class="music">♭</span>. No more placeholder 'b's and '#'s!
 
@@ -100,9 +100,10 @@ The above solutions are cool because they should work across platforms, but some
 
 I recommend [the free fonts provided by Matthew Hindson](http://hindson.com.au/info/free/free-fonts-available-for-download/) on his website. I've been using them for years, especially the **Staff Clef Pitches Easy** and the Rhythms font, both of which I find extremely useful for making quizzes and tests. He also provides key maps for all his fonts, so it's easy to learn how to use them.
 
-![](https://meganlavengood.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-11-at-8.26.37-PM-1-657x109.png)
-
-![](https://meganlavengood.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-11-at-8.28.54-PM-657x248.png)
+<div class="col-lg-6 mx-auto">
+<img src="/assets/posts/typing-2.png" class="img-fluid" alt="">
+<img src="/assets/posts/typing-3.png" class="img-fluid" alt="">
+</div>
 
 ## More questions?
 
