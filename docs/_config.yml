@@ -58,8 +58,8 @@ kramdown:
 # Jekyll-TOC
 toc:
     min_level: 2
-    max_level: 3
-    ordered_list: true
+    max_level: 2
+    ordered_list: false
     list_id: toc
     list_class: section-nav
     sublist_class: "toc-sublist"
@@ -95,6 +95,6 @@ scholar:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-permalink: /:year/:title:output_ext
+permalink: /:year/:month/:day/:title
 
 future: true

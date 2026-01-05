@@ -2,7 +2,7 @@
 layout: default
 ---
 <article class="blog-post" itemscope itemtype="http://schema.org/BlogPosting">
-  <header class=" post-header mb-5">
+  <header class="post-header mb-5">
     <div id="banner" class="carousel slide">
       <img src="{{ page.banner }}" class="d-block w-100 object-fit-cover" height="300" alt="{{ page.banner-alt }}" />
       <div class="carousel-caption d-block text-start">
@@ -75,7 +75,6 @@ layout: default
       {%- endfor -%}
     </div>
     {% endif %}
-  </div>
   </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
