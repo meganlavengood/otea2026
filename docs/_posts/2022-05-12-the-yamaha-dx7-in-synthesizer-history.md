@@ -3,7 +3,7 @@ layout: post
 title: "The Yamaha DX7 in Synthesizer History"
 date: 2022-05-12 11:26:37 -0400
 toc: true
-banner: "https://meganlavengood.com/wp-content/uploads/2022/05/Yamaha_DX7_settings-e1652370037507.jpg"
+banner: "/assets/posts/dx7-1.jpg"
 banner-alt: "close-up photo of Yamaha DX7 settings"
 banner-caption: "[Leo-setä](https://www.flickr.com/people/12584677@N06), © [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons."
 lead: "To say that the DX7’s arrival was earth-shaking would be no exaggeration: the affordable price, sound palette, and physical feel of the instrument combined to make the DX7 the new must-have instrument in every studio, garage, and university music department in the U.S. and the U.K."
@@ -43,10 +43,10 @@ The Yamaha DX7 was only produced from 1983 to 1986, and in this short period, Ya
 <figure class="figure">
 <div class="row d-flex flex-wrap align-items-center justify-content-around">
 <div class="col-md-auto flex-nowrap">
-<img src="https://meganlavengood.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-12-at-10.46.43-AM.png" class="img-fluid">
+<img src="/assets/posts/dx7-2.png" class="img-fluid">
 </div>
 <div class="col-md-auto flex-nowrap">
-<img src="https://meganlavengood.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-12-at-10.46.51-AM.png" class="img-fluid">
+<img src="/assets/posts/dx7-3.png" class="img-fluid">
 </div>
 </div>
 <figcaption><strong>Example 1.</strong> A Roland Jupiter-8 envelope generator (left/top) and a Yamaha DX7 illustration of possible envelopes (right/bottom). Images taken from each synthesizer's owner's manual.
@@ -64,16 +64,18 @@ The timbre of a sound on the DX7 can change further depending on how hard and/or
 
 Other features were not unique to the DX7, but were still on the vanguard of innovation. The DX7 was one of the earliest keyboards to make use of the now-commonplace Musical Instrument Digital Interface (better known as MIDI) technology. The DX7's MIDI capability was limited—it only transmits on MIDI channel 1—but effective. MIDI sends data to and from the DX7, which means that users could use MIDI to exchange preset sounds, or to hook the DX7 up as a controller for other synthesizers. Coupled with the DX7's excellent velocity and pressure sensitivity, the DX7 was a popular choice of MIDI controller. More radical was that the DX7 could be hooked up via MIDI to a breath controller, which could better simulate the sound of wind instruments. As with velocity and pressure sensitivity, Yamaha specially designed several preset sounds (those ending in "BC") to be used with a breath controller.[^12] In 1983, these capabilities were very hard to find in other synthesizers.
 
-<figure data-bs-toggle="lightbox" class="figure">
-<img  src="https://meganlavengood.com/wp-content/uploads/2022/05/image13.png" class="img-fluid">
-<figcaption><strong>Example 2.</strong> An example algorithm, with the roles of each operator clearly marked.
-</figcaption>
-</figure>
+<div class="col-lg-6 mx-auto">
+    <figure data-bs-toggle="lightbox" class="figure">
+    <img src="/assets/posts/dx7-4.png" class="img-fluid">
+    <figcaption><strong>Example 2.</strong> An example algorithm, with the roles of each operator clearly marked.
+    </figcaption>
+    </figure>
+</div>
 
 FM synthesis is really what lies at the heart of the DX7's innovative status. FM is a highly versatile method of sound synthesis, capable of producing a wide range of timbres, if one knows how to program with FM. Although a complete discussion of the processes involved in FM synthesis is beyond the scope of this project, a short overview is helpful in understanding what makes the FM synthesis process of the DX7 so revolutionary compared to subtractive synthesis on analog machines.[^13] FM synthesis on the DX7 begins with the generation of sine waves from the DX7's digitally controlled oscillators, called *operators*. An operator can be either a carrier wave or a modulator wave in the FM sound synthesis process (as in FM radio), and these carriers and modulators can feed into one another through various arrangements, known as *algorithms*. In an algorithm with only two operators, often one operator would be the carrier and the other the modulator (**Example 2**). Relating this abstract mathematical concept to musical sound, the frequency of a carrier will determine the pitch of the note played, while the frequency of a modulator will affect the timbre. The DX7 has six operators, each of which might be turned on or off, and the programmer may arrange these operators into one of thirty-two different algorithms, dictating which operators are modulators or carriers and the relationship between them all. Factoring all these variables together, the number of possible sounds is immense. This vast universe is quickly made apparent to the user of a DX7 through the visual map of all 32 algorithms painted directly onto the face of the instrument (**Example 3**).
 
 <figure data-bs-toggle="lightbox" class="figure">
-<img  src="https://meganlavengood.com/wp-content/uploads/2022/05/image14-1060x135.png" class="img-fluid">
+<img  src="/assets/posts/dx7-5.png" class="img-fluid">
 <figcaption><strong>Example 3.</strong> The thirty-two possible algorithms used to program DX7 sounds.
 </figcaption>
 </figure>
@@ -105,7 +107,7 @@ The DX7 was one of the earliest synthesizers to come equipped with such pre-prog
 Synthesizers became more integral to the sound of popular music throughout the course of the 1980s. Many everyday musicians, such as those playing in garage bands, wanted to buy their first synthesizer, but had no familiarity with the basic concepts of synthesizer programming. By 1983, the availability of presets made the DX7 exceptionally attractive to such keyboardists. Instead of needing to learn about subtractive synthesis, with its oscillators, filters, and waveforms—or worse, needing to learn about FM synthesis!—the salesperson could show buyers that they simply needed to press one of the thirty-two buttons on the face of the DX7 to quickly access any sound. Bass, harpsichord, Rhodes, brass, organ, strings, bells, and more: everything the buyer might need was available with the push of a button, no twiddling of knobs or comprehension of algorithms required. Sounds on the DX7 are literally at the player's fingertips (Example 4).
 
 <figure data-bs-toggle="lightbox" class="figure">
-<img  src="https://meganlavengood.com/wp-content/uploads/2022/05/Yamaha_DX7.jpg" class="img-fluid">
+<img  src="/assets/posts/dx7-6.jpg" class="img-fluid">
 <figcaption><strong>Example 4.</strong> The front of a Yamaha DX7. Players access preset sounds with the two rows of sixteen buttons on the right. Image via Wikimedia Commons, © <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>.
 </figcaption>
 </figure>
@@ -215,7 +217,7 @@ A relatively small handful of presets became particularly widespread throughout 
 As more and more DX7 players repeatedly returned to these presets on hundreds of records throughout the 1980s, the sound of the presets eventually became recognizable. This quickly diminished the appeal of the instrument, and I hypothesize that perhaps the DX7 sounds particularly dated today because of the existence of the factory presets; perhaps an analog instrument that was more easily customizable wouldn't have had such an easily recognizable sound. The DX7 became less and less popular as a synthesizer toward the end of the 1980s and into the 1990s, until finally the DX7 had a truly bad reputation and was essentially synonymous with cheesiness.[^38] The Roland D-50 synthesizer, released in 1987, which blended sampled attack sounds with digitally synthesized sustain portions of tone, was the first blow to the DX7's previously uncontested dominance. The Korg M1, an inexpensive sample-based synthesizer released in 1988, completely dethroned the DX7, even breaking the record for most units sold by any synthesizer, which had previously belonged to the DX7.
 
 <figure data-bs-toggle="lightbox" class="figure">
-<img src="https://meganlavengood.com/wp-content/uploads/2022/05/image16-1.png" class="img-fluid">
+<img src="/assets/posts/dx7-7.png" class="img-fluid">
 <figcaption><strong>Example 6.</strong> A screenshot of Dexed, a DX7 librarian and patch editor plugin for digital audio workstations.
 </figcaption>
 </figure>
