@@ -6,4 +6,4 @@ order: 4
 permalink: /blog/
 ---
 
-More posts will be migrated slowly over time. My full blog is still available at [wordpress.meganlavengood.com/blog](https://wordpress.meganlavengood.com/blog/).
+These are the most-trafficked posts from my old Wordpress site. More posts can be found at [wordpress.meganlavengood.com/blog](https://wordpress.meganlavengood.com/blog/).

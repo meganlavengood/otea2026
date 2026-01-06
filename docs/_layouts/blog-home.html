@@ -9,7 +9,6 @@ layout: default
             <h1 class="mb-3">{{ page.title | escape }}</h1>
         </header>
         <div itemprop="articleBody">
-            {{ content}}
 
 
             <!-- {%- if site.posts.size > 0 -%}
@@ -19,7 +18,7 @@ layout: default
     </div>
     {%- if site.posts.size > 0 -%}
     <div class="col-lg-10 mx-auto">
-        <div class="row d-flex justify-content-around g-3">
+        <div class="row d-flex justify-content-around mb-3 g-3">
             {%- for post in site.posts -%}
             <div class="col-md-4 d-flex">
                 <div class="card">
@@ -40,9 +39,12 @@ layout: default
                 </div>
             </div>
             {%- endfor -%}
+
         </div>
 
 
     </div>
     {%- endif -%}
+    {{ content}}
+
 </article>

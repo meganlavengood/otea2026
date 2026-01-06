@@ -60,37 +60,32 @@ a {
 }
 
 .navbar-brand {
-	font-weight: 800;
-	font-size: 2rem;
+	font-weight: 900;
 	text-transform: uppercase;
 	line-height: 1;
+	padding: 1rem;
+	background-color: var(--bs-secondary);
+	color: var(--bs-white);
+	font-size: 1.2rem;
+	text-decoration: none;
+}
+
+.navbar-brand:hover {
+	text-decoration: var(--bs-pink) underline dotted;
+	-webkit-text-decoration: var(--bs-pink) underline dotted;
+	text-decoration-thickness: 2px;
+	color: var(--bs-white);
 }
 
 .navbar-toggler {
 	padding: 0;
 }
 
-.navbar-brand {
-	padding: 1rem;
-	background-color: var(--bs-secondary);
-}
-
-.navbar-brand a {
-	color: var(--bs-white);
-	font-size: 1.2rem;
-	text-decoration: none;
-}
-
-.navbar-brand a:hover {
-	text-decoration: var(v) underline dotted;
-	-webkit-text-decoration: var(--bs-pink) underline dotted;
-	text-decoration-thickness: 2px;
-	color: var(--bs-white);
-}
-
-@media screen and (max-width: 440px) {
-	.navbar-brand a {
-		font-size: 4.7vw;
+@media screen and (max-width: 465px) {
+	a.navbar-brand {
+		font-size: 4.6vw;
+		padding: 0.75rem 0.5rem;
+		margin-right: 3px;
 	}
 }
 
@@ -113,10 +108,6 @@ h5,
 h6 {
 	font-weight: 700;
 	font-family: var(--heading-font);
-}
-
-.navbar-brand {
-	font-weight: 900;
 }
 
 .sticky-lg-top {
