@@ -20,7 +20,7 @@ layout: default
     <div class="col-lg-10 mx-auto">
         <div class="row d-flex justify-content-around mb-3 g-3">
             {%- for post in site.posts -%}
-            <div class="col-md-4 d-flex">
+            <div class="col-md-6 d-flex">
                 <div class="card">
                     <img src="{{ post.banner | relative_url }}" class="card-img-top" alt="{{post.banner-alt}}" />
                     <div class="card-body">
