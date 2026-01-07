@@ -230,6 +230,7 @@ textarea {
 		font-family: bootstrap-icons;
 		content: "\2002 \F470";
 		position: relative;
+		top: 4px; /* otherwise appears slightly offset from text */
 		color: var(--bs-primary);
 	}
 }

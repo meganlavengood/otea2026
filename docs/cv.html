@@ -8,7 +8,7 @@ permalink: /cv/
 
 <p class="text-secondary">Updated {{ "now" | date: "%B %e, %Y" }}</p>
 
-{% for item in site.data.cv-all-copy %} {% assign category = item[1] %}
+{% for item in site.data.cv-all %} {% assign category = item[1] %}
 <h2 id="{{ category.heading | slugify }}">{{ category.heading }}</h2>
 {% for category_type in category.types %} {% assign subcategory = category_type[1] %}
 <h3 id="{{ subcategory.heading | slugify }}">{{ subcategory.subheading }}</h3>
