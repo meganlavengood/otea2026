@@ -45,7 +45,7 @@ Have a listen to these mystery tunes and feel yourself being transported to your
 </figure>
 
 <figure class="figure">
-<audio id="baby-einstein-D" class="media" src="{{ '/assets/posts/baby-einstein-D.mp3' | relative_url }}" style="max-width: 600px;outline: none" controls="">Your browser doesn't support HTML5 audio. Here is a <a href="/assets/posts/baby-einstein-D.mp3">link to download the audio</a> instead.</audio>
+<audio id="baby-einstein-D" class="media" src="{{ '/assets/posts/baby-einstein-D.mp3' | relative_url }}" style="max-width: 600px;outline: none" controls="">Your browser doesn't support HTML5 audio. Here is a <a href="/assets/posts/baby-einstein-d.mp3">link to download the audio</a> instead.</audio>
 <figcaption><strong>Mystery tune D.</strong> Described by a friend as "bad Handel." Another person said the cadences on beat 3 in 3/4 time "suggests an early date, early in the 18th century."
 </figcaption>
 </figure>

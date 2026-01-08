@@ -42,7 +42,7 @@ If you want to be able to use these symbols quickly in any app, you can make thi
 | !#      | ♯    |
 | !n      | ♮    |
 
-![](/assets/posts/typing-4.png)
+<p><img src="/assets/posts/typing-4.png" class="img-responsive" alt="autocorrect replacing Bb with B♭"></p>
 
 Add those replacements, and then all you need to do is type that shortcut and your computer will replace it with nice pretty flat sign, sharp sign, or natural sign. B!b becomes B<span class="music">♭</span>. No more placeholder 'b's and '#'s!
 
@@ -86,9 +86,22 @@ To insert these equations in Pages (MacOS) or Microsoft Word, go to **Insert > E
 
 Sometimes I'll write prompts on tests/quizzes in LaTeX, which just requires a little bit more effort, but pays off in beauty! The web display below has some wonkiness with the letters being offset, but this doesn't happen in word processors.
 
-| LaTeX code                        | rendered                          |
-| --------------------------------- | --------------------------------- |
-| `\mathrm{C\sharp\ minor:\ V^4_3}` | $\mathrm{C\sharp\ minor:\ V^4_3}$ |
+<table-saw>
+<table class="table">
+<thead>
+<tr>
+<th>LaTeX code</th>
+<th>rendered</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>\mathrm{C\sharp\ minor:\ V^4_3}</code></td>
+<td>$\mathrm{C\sharp\ minor:\ V^4_3}$</td>
+</tr>
+</tbody>
+</table>
+</table-saw>
 
 (The `\mathrm{}` part makes the text regular instead of italic, an escape character `\` is necessary before any space you want to actually render, and the rest is basically self-explanatory.)
 

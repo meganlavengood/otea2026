@@ -3,9 +3,19 @@ layout: default
 ---
 <article class="blog-post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header mb-5">
-    <div id="banner" class="carousel slide">
+    <div class="banner carousel slide">
+      <div class="d-sm-none d-block text-start">
+
+
+        <h1 class="small-caps fw-boldest">{% if page.title-prefix %}
+          {{ page.title-prefix }}:
+          {% endif %}
+          {{ page.title }}</h1>
+
+        <p class="lead">{{ page.date | date: "%B %-d, %Y" }}</p>
+      </div>
       <img src="{{ page.banner | relative_url }}" class="d-block w-100 object-fit-cover" height="300" alt="{{ page.banner-alt }}" />
-      <div class="carousel-caption d-block text-start">
+      <div class="carousel-caption text-start d-sm-block d-none">
 
         <p class="lead text-secondary">{{ page.date | date: "%B %-d, %Y" }}</p>
 
@@ -15,7 +25,6 @@ layout: default
           {{ page.title }}</h1>
 
       </div>
-
     </div>
   </header>
 
@@ -58,7 +67,7 @@ layout: default
     {%- if site.posts.size > 0 -%}
 
     <h2>More posts</h2>
-    <div class="d-flex flex-row justify-content-around g-4">
+    <div class="d-flex flex-row flex-wrap justify-content-around g-4">
       {%- for post in site.related_posts -%}
       <div class="col-md-4 d-flex px-2">
         <div class="card">
