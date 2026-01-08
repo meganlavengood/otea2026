@@ -18,9 +18,9 @@ layout: default
     </div>
     {%- if site.posts.size > 0 -%}
     <div class="col-lg-8 mx-auto">
-        <div class="row d-flex justify-content-around mb-3 g-3">
+        <div class="row justify-content-around mb-3 g-3">
             {%- for post in site.posts -%}
-            <div class="col-md-6 d-flex">
+            <div class="col-md-6">
                 <div class="card">
                     <img src="{{ post.banner | relative_url }}" class="card-img-top" alt="{{post.banner-alt}}" />
                     <div class="card-body">

@@ -29,14 +29,14 @@ Most of my course materials are (or were recently) open access.
 
 ### Undergraduate
 
-<div class="row flex-row justify-content-center align-items-stretch">
+<div class="row justify-content-center align-items-stretch">
     <a class="btn col-md-4 m-2 btn-lg btn-pink" href="http://musi215.meganlavengood.com" target="_blank" rel="noreferrer noopener">Theory for Pop and Jazz Music<br />(MUSI 215)</a>
     <a class="btn col-md-4 m-2 btn-lg btn-success" href="http://musi216.meganlavengood.com" target="_blank" rel="noreferrer noopener">Theory for 20th/21st-c. Music<br />(MUSI 216)</a>
 </div>
 
 ### Graduate
 
-<div class="row flex-row justify-content-center align-items-stretch">
+<div class="row justify-content-center align-items-stretch">
     <a class="btn col-md-4 m-2 btn-lg btn-danger" href="https://musi611.meganlavengood.com" target="_blank" rel="noreferrer noopener">Analytical Techniques<br />(MUSI 611)</a>
     <a class="btn col-md-4 m-2 btn-lg btn-info" href="http://multimedia.meganlavengood.com" target="_blank" rel="noreferrer noopener">Analyzing Music and Media<br />(MUSI 810)</a>
     <a class="btn col-md-4 m-2 btn-lg btn-dark" href="https://timbreclass.meganlavengood.com" target="_blank" rel="noreferrer noopener">Analysis of Timbre<br />(MUSI 810)</a>

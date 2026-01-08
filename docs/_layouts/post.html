@@ -45,7 +45,7 @@ layout: default
   <div class="col-lg-10 mx-auto">
 
 
-    <div class="d-flex flex-row flex-lg-row-reverse flex-wrap justify-content-between">
+    <div class="row flex-lg-row-reverse justify-content-between">
 
       <nav class="col-lg-3 mx-auto mb-3">
         <div id="toc-container" class="toc card sticky-lg-top">
@@ -67,7 +67,7 @@ layout: default
     {%- if site.posts.size > 0 -%}
 
     <h2>More posts</h2>
-    <div class="d-flex flex-row flex-wrap justify-content-around g-4">
+    <div class="row justify-content-around g-2">
       {%- for post in site.related_posts -%}
       <div class="col-md-4 d-flex px-2">
         <div class="card">

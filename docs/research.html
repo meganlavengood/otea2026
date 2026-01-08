@@ -18,7 +18,7 @@ permalink: /research/
 
 <h2 id="articles">articles</h2>
 
-<div class="flex-row row justify-content-around g-4" id="articles-list">
+<div class="row justify-content-around g-4" id="articles-list">
 
     {% assign articles = site.data.research | where: "type", "journalArticle" %}
 
@@ -69,7 +69,7 @@ permalink: /research/
 
 <h2 id="book-chapters">book chapters</h2>
 
-<div class="flex-row row justify-content-around g-4" id="chapters-list">
+<div class="row justify-content-around g-4" id="chapters-list">
 
     {% assign chapters = site.data.research | where: "type", "bookSection" %}
 
@@ -118,7 +118,7 @@ permalink: /research/
 <p>In 2023, I started making my presentations using <a href="https://revealjs.com" data-type="link" data-id="https://revealjs.com">Reveal.js</a>, so you can view the slides as a website.</p>
 
 
-<div class="flex-row row justify-content-around g-4 mb-3" id="presentations-list">
+<div class="row justify-content-around g-4 mb-3" id="presentations-list">
 
     {% assign talks = site.data.research | where: "type", "presentation" %}
 
@@ -158,7 +158,7 @@ permalink: /research/
 
 <p>Following are selected, older presentations not on Reveal.js. For a complete list of presentations, <a href="cv.html">see my CV</a>. Feel free to request materials for them (handouts, slides, etc.)</p>
 
-<div class="flex-row row justify-content-around g-4 mb-3" id="old-presentations-list">
+<div class="row justify-content-around g-4 mb-3" id="old-presentations-list">
     {% assign talks = site.data.research | where: "type", "oldPresentation" %}
 
     {% for item in talks %}
@@ -196,7 +196,7 @@ permalink: /research/
 
 <h2 id="reviews">reviews</h2>
 
-<div class="flex-row row justify-content-around g-4 mb-3" id="reviews">
+<div class="row justify-content-around g-4 mb-3" id="reviews-list">
 
     {% assign reviews = site.data.research | where: "type", "review" %}
 
