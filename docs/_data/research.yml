@@ -120,6 +120,17 @@
 
 # Presentations
 
+- title: "EDM as Timbre Learning Lab"
+  id: edm-ped
+  type: presentation
+  img: edm-ped.jpg
+  alt: visual representation of an equalizer
+  credit: Image by <a href="https://pixabay.com/users/kalhh-86169/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=255396">kalhh</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=255396">Pixabay</a>
+  conf: American Musicological Society and Society for Music Theory Joint Annual Meeting
+  year: 2025
+  conf-link: https://minneapolis2025.ams-smt.org
+  link: https://presentations.meganlavengood.com/2025-edm-smt.html
+
 - title: "Instrumental Timbre and Texture in Popular Song"
   id: tops
   type: presentation

@@ -216,6 +216,7 @@ conf:
                   location: Minneapolis, MN
                   date: November 6
                   year: 2025
+                  url: https://presentations.meganlavengood.com/2025-edm-smt.html
                 - title: "Auralayer: An Easy-to-Use Web App for Visualizing Instrumentation and Timbre"
                   note: With Brian Jarvis and Evan Williams.
                   conf: Timbre and Orchestration Interest Group meeting, American Musicological Society and Society for Music Theory Joint Annual Meeting
