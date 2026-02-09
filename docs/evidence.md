@@ -10,7 +10,7 @@ permalink: /evidence/
 ## Online Textbook: _Open Music Theory_ version 2
 
 <div class="col-md-6 mx-auto text-center">
-    <figure><a href="https://viva.pressbooks.pub/openmusictheory/"><img class="img-fluid" src="/assets/OMT-cover.png" alt="Open Music Theory cover" /></a>
+    <figure><a href="https://viva.pressbooks.pub/openmusictheory/"><img class="img-fluid" src="//otea2026/assets/OMT-cover.png" alt="Open Music Theory cover" /></a>
         <figcaption class="text-primary"><small>Cover design: <a href="https://www.bethanynistler.com">Bethany Nistler</a>.</small>
     </figcaption>
 </figure>
@@ -45,7 +45,7 @@ I also developed [online course materials for Theory for 20th/21st-c. Music (MUS
 ## Community Building
 
 - [Padlet for sharing final projects in Theory for Pop and Jazz Music](https://musi215.meganlavengood.com). Students completely optionally shared their final projects and commented on each others' projects.
-- Teams channels dedicated to socialization (Introductions, Off-Topic) encourage students to post [friendly](/assets/teams-ss1.png) and [personal](/assets/teams-ss2.png) content unprompted.
+- Teams channels dedicated to socialization (Introductions, Off-Topic) encourage students to post [friendly](//otea2026/assets/teams-ss1.png) and [personal](//otea2026/assets/teams-ss2.png) content unprompted.
 
 ## Final project instructions and rubrics
 

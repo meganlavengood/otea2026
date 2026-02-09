@@ -9,14 +9,14 @@ permalink: /impact/
 
 View the reports for my recent online courses:
 
-- [Spring 2021: Analytical Techniques](assets/reports/2021-spring-at.pdf)
-- [Fall 2021: Analyzing Classical Form](assets/reports/2021-fall-analyzing-classical-form.pdf)
-- [Fall 2022: Music and Multimedia](assets/reports/2022-fall-music-and-multimedia.pdf)
-- [Spring 2023: Analysis of Popular Music](assets/reports/2023-spring-pop.pdf)
-- [Fall 2023: Analytical Techniques](assets/reports/2023-fall-at.pdf)
-- [Spring 2024: Analysis of Timbre](assets/reports/2024-spring-timbre.pdf)
-- [Fall 2024: Analytical Techniques](assets/reports/2024-fall-at.pdf)
-- [Fall 2025: Analyzing Musical Instruments](assets/reports/2025-fall-instruments.pdf)
+- [Spring 2021: Analytical Techniques](/otea2026/assets/reports/2021-spring-at.pdf)
+- [Fall 2021: Analyzing Classical Form](/otea2026/assets/reports/2021-fall-analyzing-classical-form.pdf)
+- [Fall 2022: Music and Multimedia](/otea2026/assets/reports/2022-fall-music-and-multimedia.pdf)
+- [Spring 2023: Analysis of Popular Music](/otea2026/assets/reports/2023-spring-pop.pdf)
+- [Fall 2023: Analytical Techniques](/otea2026/assets/reports/2023-fall-at.pdf)
+- [Spring 2024: Analysis of Timbre](/otea2026/assets/reports/2024-spring-timbre.pdf)
+- [Fall 2024: Analytical Techniques](/otea2026/assets/reports/2024-fall-at.pdf)
+- [Fall 2025: Analyzing Musical Instruments](/otea2026/assets/reports/2025-fall-instruments.pdf)
 
 ## Summary
 
