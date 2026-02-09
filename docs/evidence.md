@@ -10,7 +10,7 @@ permalink: /evidence/
 ## Online Textbook: _Open Music Theory_ version 2
 
 <div class="col-md-6 mx-auto text-center">
-    <figure><a href="https://viva.pressbooks.pub/openmusictheory/"><img class="img-fluid" src="//otea2026/assets/OMT-cover.png" alt="Open Music Theory cover" /></a>
+    <figure><a href="https://viva.pressbooks.pub/openmusictheory/"><img class="img-fluid" src="/otea2026/assets/OMT-cover.png" alt="Open Music Theory cover" /></a>
         <figcaption class="text-primary"><small>Cover design: <a href="https://www.bethanynistler.com">Bethany Nistler</a>.</small>
     </figcaption>
 </figure>
