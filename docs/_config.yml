@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 domain: https://meganlavengood.com
 url: https://meganlavengood.com
-baseurl: "" # the subpath of your site, e.g. /blog
-# repository: meganlavengood/instruments-class
+baseurl: "/otea2026"
+repository: meganlavengood/otea2026
 github_username: meganlavengood
 
 # Build settings
