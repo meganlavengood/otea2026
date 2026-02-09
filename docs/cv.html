@@ -1,12 +1,17 @@
 ---
 layout: page-toc
-title: "CV"
-menu: false
+title: "Teaching Vita"
+short-title: "Vita"
+menu: true
+order: 2
 toc: true
 permalink: /cv/
 ---
 
-<p class="text-secondary">Updated {{ "now" | date: "%B %e, %Y" }}</p>
+<div class="text-secondary">
+	<p>email: mlavengo@gmu.edu<br />office: 703-993-6272</p>
+</div>
+<p><a href="https://meganlavengood.com/cv">Full CV available here</a>.</p>
 
 {% for item in site.data.cv-all %} {% assign category = item[1] %}
 <h2 id="{{ category.heading | slugify }}">{{ category.heading }}</h2>
